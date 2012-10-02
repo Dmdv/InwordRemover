@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extense", "Extense\Extense.csproj", "{BC5216FF-972D-40CE-8D26-87B8E074ACAE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExtenseSetup", "ExtenseSetup\ExtenseSetup.vdproj", "{860ED3C1-1CAE-41FE-B3CE-FFF6E088C28E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5216FF-972D-40CE-8D26-87B8E074ACAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5216FF-972D-40CE-8D26-87B8E074ACAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5216FF-972D-40CE-8D26-87B8E074ACAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5216FF-972D-40CE-8D26-87B8E074ACAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{860ED3C1-1CAE-41FE-B3CE-FFF6E088C28E}.Debug|Any CPU.ActiveCfg = Debug
+		{860ED3C1-1CAE-41FE-B3CE-FFF6E088C28E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
